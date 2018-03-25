@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521995163 source:c:\stuffs\programming\c\demo\demo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"toupper.h"
+
+1521995113 c:\stuffs\programming\c\demo\demo\toupper.h
+
+1521995234 source:c:\stuffs\programming\c\demo\demo\toupper.c
+	"toupper.h"
+
